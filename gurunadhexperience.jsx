@@ -3520,7 +3520,7 @@ function ConvergenceBirthdaySection({
                       WITH WARM WISHES,
                     </p>
                     <p className="mt-1 text-sm sm:text-base tracking-[0.28em] uppercase text-[#39FF88] font-semibold">
-                      YOUR TEAM
+                      TEAM INTL
                     </p>
                   </div>
                 </div>
