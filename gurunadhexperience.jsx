@@ -3461,8 +3461,8 @@ function ConvergenceBirthdaySection({
                 <p className="text-xs tracking-[0.42em] uppercase text-[#8DC9A5] mb-3">
                   THREE PASSIONS. ONE LEGEND.
                 </p>
-                <h2 className="text-5xl sm:text-7xl md:text-8xl font-syne font-extrabold tracking-tight emerald-metallic-text">
-                  GURUNADH  .
+                <h2 className="text-4xl sm:text-6xl md:text-7xl font-syne font-extrabold tracking-tight emerald-metallic-text">
+                  GURUNADH.
                 </h2>
               </div>
             )}
